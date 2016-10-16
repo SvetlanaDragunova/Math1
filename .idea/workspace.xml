@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e5c82ac-60b8-4d20-bd92-398b077a3917" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/math/Lab2.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Math1/math/Main.class" afterPath="$PROJECT_DIR$/out/production/Math1/math/Main.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -27,20 +26,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/math/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2312">
+            <state relative-caret-position="1105">
               <caret line="138" column="9" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
-              <folding>
-                <element signature="e#3411#3412#0" expanded="false" />
-                <element signature="e#3454#3455#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Lab2.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Lab2.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/math/Lab2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
@@ -621,7 +617,7 @@
       <workItem from="1474302195569" duration="4793000" />
       <workItem from="1475095508869" duration="622000" />
       <workItem from="1476562239076" duration="2554000" />
-      <workItem from="1476607666805" duration="5931000" />
+      <workItem from="1476607666805" duration="6048000" />
     </task>
     <task id="LOCAL-00001" summary="A bit changed to become more readable">
       <created>1474315928183</created>
@@ -630,11 +626,18 @@
       <option name="project" value="LOCAL" />
       <updated>1474315928183</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second lab, p.1 added&#10;Works correctly but clumsily">
+      <created>1476625608091</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1476625608091</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19079000" />
+    <option name="totallyTimeSpent" value="19196000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -680,7 +683,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="A bit changed to become more readable" />
-    <option name="LAST_COMMIT_MESSAGE" value="A bit changed to become more readable" />
+    <MESSAGE value="Second lab, p.1 added&#10;Works correctly but clumsily" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second lab, p.1 added&#10;Works correctly but clumsily" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -697,10 +701,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2312">
           <caret line="138" column="9" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
-          <folding>
-            <element signature="e#3411#3412#0" expanded="false" />
-            <element signature="e#3454#3455#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -716,10 +717,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3411#3412#0" expanded="false" />
-            <element signature="e#3454#3455#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -727,10 +725,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3411#3412#0" expanded="false" />
-            <element signature="e#3454#3455#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -738,21 +733,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#3411#3412#0" expanded="false" />
-            <element signature="e#3454#3455#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/math/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2312">
-          <caret line="138" column="9" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
-          <folding>
-            <element signature="e#3411#3412#0" expanded="false" />
-            <element signature="e#3454#3455#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -760,6 +741,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
           <caret line="27" column="15" selection-start-line="27" selection-start-column="15" selection-end-line="27" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/math/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1105">
+          <caret line="138" column="9" selection-start-line="138" selection-start-column="9" selection-end-line="138" selection-end-column="9" />
           <folding />
         </state>
       </provider>
